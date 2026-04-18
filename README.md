@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer | Mern stack progress| problem solver
+Frontend developer| Mern stack in progress| problem solver| critical thinker
 
 
 ## 🌐 Socials:
