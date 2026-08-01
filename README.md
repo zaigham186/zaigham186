@@ -67,15 +67,15 @@ Developed a comprehensive inventory and sales management application for mobile 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaigham186&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaigham186&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&text_color=ffffff" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaigham186&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" width="48%" />
 
 </div>
 
